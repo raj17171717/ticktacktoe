@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    text-align:center;
+}
+#game{
+    height: 310px;
+    width: 310px;
+    background-color: yellow;
+    margin:auto;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    padding:0;
+    margin:0;
+    font-size: 20px;
+}
