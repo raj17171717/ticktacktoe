@@ -20,3 +20,7 @@ body{
     margin:0;
     font-size: 20px;
 }
+#show{
+    font-size:20px;
+    color: red;
+}
